@@ -1,3 +1,17 @@
+# Technical test Using Nest.JS
+
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/6f79c1172b6dc903377c/maintainability)](https://codeclimate.com/github/naskio/OpenFoodAPI/maintainability)
+[![codecov](https://codecov.io/gh/naskio/OpenFoodAPI/branch/master/graph/badge.svg?token=Y3RTH4W098)](https://codecov.io/gh/naskio/OpenFoodAPI)
+![GitHub branch checks state](https://img.shields.io/github/checks-status/naskio/OpenFoodAPI/master)
+
+[![GitHub issues](https://img.shields.io/github/issues/naskio/OpenFoodAPI)](https://github.com/naskio/OpenFoodAPI/issues)
+[![GitHub forks](https://img.shields.io/github/forks/naskio/OpenFoodAPI)](https://github.com/naskio/OpenFoodAPI/network)
+[![GitHub stars](https://img.shields.io/github/stars/naskio/OpenFoodAPI)](https://github.com/naskio/OpenFoodAPI/stargazers)
+![Lines of code](https://img.shields.io/tokei/lines/github/naskio/OpenFoodAPI)
+[![GitHub license](https://img.shields.io/github/license/naskio/OpenFoodAPI)](https://github.com/naskio/OpenFoodAPI/blob/master/LICENSE)
+-----------
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
