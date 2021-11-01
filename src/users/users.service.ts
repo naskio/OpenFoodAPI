@@ -38,19 +38,6 @@ export class UsersService {
     return this.save(plainToClass(User, { id, ...updateUserDto }));
   }
 
-  // async remove(id: number): Promise<User> {
-  //   const user: User = await this.findOne(id);
-  //   return this.usersRepository.remove(user);
-  // }
-
-  // findOne(id: number): Promise<User> {
-  //   return this.usersRepository.findOneOrFail(id);
-  // }
-
-  // findAll() {
-  //   return this.usersRepository.find();
-  // }
-
   findOneByEmail(email: string): Promise<User> {
     return this.usersRepository.findOne({
       where: { email },
